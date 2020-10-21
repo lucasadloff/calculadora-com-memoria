@@ -1,0 +1,14 @@
+.display-memoria {
+    height: 1.5em;
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+    font-weight: bold;
+    font-size: 1.4em;
+    background-color: #3a3a3a;
+    color: #ffffff;
+    padding: 0.5em;
+    border: 2px solid #000000;
+    outline: 2px solid #000000;
+  }
+  
